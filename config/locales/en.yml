@@ -32,3 +32,44 @@
 en:
   layout:
   project: "Project"
+  static_pages:
+    home:
+     webcome: "Webcome to the Sample App"
+     t1: "This is the home page for the"
+     t2: "Ruby on Rails Tutorial"
+     t3: "sample application."
+     t4: "Sign up now!"
+    help:
+      t1: "Help"
+      t2: "Get help on the Ruby on Rails Tutorial at the"
+      t3: "Rails Tutorial help page"
+      t4: "To get help on this sample app, see the"
+      t5: "Ruby on Rails Tutorial"
+      t6: "book"
+    contact:
+      t1: "Contact"
+      t2: "Contact the Ruby on Rails Tutorial about the sample app at the"
+      t3: "contact page"
+    about:
+      t1: "About"
+      t2: "The"
+      t3: "Ruby on Rails Tutorial"
+      t4: "is a"
+      t5: "book"
+      t6: "and"
+      t7: "screencast series"
+      t8: "to teach web development with"
+      t9: "Ruby on Rails"
+      t10: "This is the sample application for the tutorial."
+  layouts:
+    footer:
+      t1: "The"
+      t2: "Ruby on Rails Tutorial"
+      t3: "About"
+      t4: "Contact"
+      t5: "News"
+    header:
+      t1: "sample app"
+      t2: "Home"
+      t3: "Help"
+      t4: "Log in"

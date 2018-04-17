@@ -25,5 +25,5 @@
 /config/secrets.yml
 .drone.yml
 Dockerfile
-.framgia-ci-reports/
+/.framgia-ci-reports
 .framgia-ci-result.temp.yml
