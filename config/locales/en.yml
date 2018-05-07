@@ -73,6 +73,11 @@ en:
       t2: "Home"
       t3: "Help"
       t4: "Log in"
+      t5: "Users"
+      t6: "Profile"
+      t7: "Settings"
+      t8: "Log out"
+      t9: "Account"
   users:
     new:
       signup: "Sign up"
@@ -84,6 +89,13 @@ en:
       success: "Welcome to the Sample App!"
     show:
       danger: "Cant't find User!"
+  sessions:
+    new:
+      login: "Log in"
+      t1: "Sign up now!"
+      t4: "New user?"
+    create:
+      danger: "Invalid email/password combination"
 
 
 
