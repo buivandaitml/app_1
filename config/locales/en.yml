@@ -94,6 +94,7 @@ en:
       login: "Log in"
       t1: "Sign up now!"
       t4: "New user?"
+      remember: "Remember me on this computer"
     create:
       danger: "Invalid email/password combination"
 

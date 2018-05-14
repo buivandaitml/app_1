@@ -18,8 +18,10 @@ class UsersController < ApplicationController
 
   def show
   end
+  
+  private
 
- private
+  attr_reader :user
  
   def user_params
     params.require(:user).permit :name, :email, :password, :password_confirmation
